@@ -4,7 +4,6 @@
 import numpy as np
 from matplotlib import pyplot as plt
 import matplotlib.patches as patches
-from matplotlib.animation import FuncAnimation
 plt.style.use('seaborn-pastel')
 
 
